@@ -1,4 +1,4 @@
-mlextend
+mlxtend
 Flask
 gunicorn
 itsdangerous
